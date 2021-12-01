@@ -4,13 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamza4213&label=Profile%20views&color=0e75b6&style=flat" alt="hamza4213" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamza4213" alt="hamza4213" /></a> </p>
 - :telescope: I’m currently working on **MERN Stack**<br>
-- 
 - :seedling: I’m currently working on **Expo React-Native Javascript React Node.js**<br>
-- 
 - :dancers: I’m looking to collaborate on **OpenSource Projects**<br>
-- 
 - :speech_balloon: Ask me about **React-Native, Express,MongoDB**<br>
-- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
