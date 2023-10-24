@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Hi :wave:, I'm Hamza Shabbir</h1>
-<h3 align="center">I'm a passionate Full-Stack Developer from Pakistan.</h3>
+<h3 align="center">I'm a passionate React Native developer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamza4213&label=Profile%20views&color=0e75b6&style=flat" alt="hamza4213" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamza4213" alt="hamza4213" /></a> </p>
 - :telescope: I’m currently working on **MERN Stack**<br>
